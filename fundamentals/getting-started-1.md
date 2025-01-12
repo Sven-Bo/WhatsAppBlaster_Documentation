@@ -4,8 +4,6 @@
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/bf4235c2-8ce5-4bd7-b64a-a38d14a2dada" %}
 
-
-
 ### Detailed Steps: Getting Started with the WhatsAppBlaster
 
 {% stepper %}
@@ -42,8 +40,6 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 ### Install VBA Selenium
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/374aefc5-e980-4638-b770-a7b4f6c63723" %}
-
-
 {% endstep %}
 
 {% step %}
@@ -81,4 +77,39 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 Set your WhatsApp language to English by following the instructions [here](https://faq.whatsapp.com/779773243128935/?cms_platform=android).
 {% endstep %}
 {% endstepper %}
+
+***
+
+### Getting Started Troubleshooting
+
+<details>
+
+<summary>Error 7: "No Such Element Found" in the Status Column</summary>
+
+If you see this error in the **Status** column after sending messages, it usually means your WhatsApp interface is not set to **English**.
+
+**How to Fix It**:
+
+* Open WhatsApp on your phone.
+* Follow [these instructions](https://faq.whatsapp.com/779773243128935/?cms_platform=android) to change the app language to **English**.
+
+Once your WhatsApp is in English, retry sending your messages.
+
+</details>
+
+<details>
+
+<summary>Error: Buttons Not Working ("Cannot Run the Macro")</summary>
+
+If you get an error like the one below when clicking any buttons:
+
+<img src="../.gitbook/assets/image (27).png" alt="" data-size="original">
+
+This happens when macros are not enabled in Excel. To fix this, [follow the instructions here](../troubleshooting/unable-to-click-on-buttons-in-the-whatsapp-blaster.md).
+
+</details>
+
+
+
+
 
