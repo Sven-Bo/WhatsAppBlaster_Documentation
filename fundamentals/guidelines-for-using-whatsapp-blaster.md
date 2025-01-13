@@ -12,7 +12,7 @@ You might wonder: _“Can my WhatsApp account get banned if I use WhatsApp Blast
    If you’re using WhatsApp Blaster for the first time, send messages in small batches of 20-40. Gradually increase your daily messages, but don’t exceed 200 messages a day.
 3. **Warm Up Your Number**\
    If your number is new to bulk messaging, start slow:
-   * **Day 1:** Send no more than 50 messages.
+   * Day 1: Send no more than 50 messages.
    * Gradually add 40-50 more each day until you reach 200 messages per day.
 4. **Use Random Delays for Large Campaigns**\
    WhatsApp Blaster includes random delays to make your activity look natural. The default delays are short, which is fine for smaller campaigns. However, if you’re sending more than 40-50 messages a day, increase the delays to about **20-30 seconds** to keep things safer.
@@ -28,7 +28,7 @@ You might wonder: _“Can my WhatsApp account get banned if I use WhatsApp Blast
 1. **Avoid Using Brand-New Numbers**\
    New WhatsApp numbers are more likely to get flagged. Instead, use a number that’s been active for some time.
 2. **Be Careful with Unsaved Contacts**\
-   Sending messages to unsaved numbers is a feature in the **PRO version**, but use it thoughtfully. Stick to people likely to recognize your number or message to avoid being flagged.
+   Sending messages to unsaved numbers is a feature in the PRO version, but use it thoughtfully. Stick to people likely to recognize your number or message to avoid being flagged.
 3. **Keep Your Messages Relevant**\
    If too many people report your messages as spam, WhatsApp might block your account. Avoid generic messages. Instead, focus on personalized and valuable content that people actually want to receive.
 
