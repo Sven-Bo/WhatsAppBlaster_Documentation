@@ -1,46 +1,117 @@
 # Getting Started
 
-Follow these simple steps to get started with WhatsApp Blaster:
+### Follow these simple steps to get started with WhatsApp Blaster:
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/bf4235c2-8ce5-4bd7-b64a-a38d14a2dada" %}
+{% embed url="https://iframe.mediadelivery.net/play/289332/f5c95a17-6632-4d36-a6c2-776a6bb8589f" %}
+WhatsApp Blaster - Getting Started Video
+{% endembed %}
 
-<details>
+### Detailed Steps: Getting Started with the WhatsAppBlaster
 
-<summary><strong>Step 1:</strong> Unblock the File and Enable Macros</summary>
+{% stepper %}
+{% step %}
+### Unblock the WhatsAppBlaster and enable macros
 
 * After downloading the Excel file, right-click it and select _Properties_. In the _General_ tab, check the _Unblock_ box if it’s available, then click _Apply_ and _OK_.
 * Open the Excel file, and when prompted, click _Enable Content_ to allow macros to run properly.
+{% endstep %}
 
-</details>
+{% step %}
+### Download the files
 
-<details>
+You’ll need three files to set up WhatsApp Blaster. Click the links below to download them:
 
-<summary><strong>Step 2:</strong> Install VBA Selenium</summary>
+1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
+   (_The tool that connects Excel to your browser_)
+2. [Download ChromeDriver (zip)](https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win64/chromedriver-win64.zip)\
+   (_Helps control Chrome for sending your messages_)
+3. [Download Chrome Testing Browser (zip)](https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win64/chrome-win64.zip)\
+   (_A dedicated Chrome browser for automation_)
+{% endstep %}
 
-Download and install VBA Selenium from [this link](https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0).
+{% step %}
+### Extract the files
 
-</details>
+1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
+   * Inside the extracted folder, you’ll find `chromedriver.exe`.
+2. Extract the **Chrome Testing Browser zip file** (`chrome-win64.zip`):
+   * You’ll get a folder called `chrome-win64`.
+{% endstep %}
 
-<details>
+{% step %}
+### Install VBA Selenium
 
-<summary><strong>Step 3:</strong> Download the correct Chrome Driver</summary>
+{% embed url="https://iframe.mediadelivery.net/play/289332/374aefc5-e980-4638-b770-a7b4f6c63723" %}
+{% endstep %}
 
-Get the driver from [here](https://googlechromelabs.github.io/chrome-for-testing/), matching your Chrome version.
+{% step %}
+### Move the Files to Selenium Basic Folder
 
-</details>
+1.  Open the default Selenium Basic folder:
 
-<details>
+    ```makefile
+    C:\Users\<YourUsername>\AppData\Local\SeleniumBasic
+    ```
+2. Replace the existing `chromedriver.exe` in this folder with the new one from the `chromedriver-win64` folder.
+3. Copy the **entire `chrome-win64` folder** into the Selenium Basic folder.\
+   Your folder should now look like this:
 
-<summary><strong>Step 4:</strong> Update Chrome Driver</summary>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-Replace `chromedriver.exe` in `C:\Users\<USERNAME>\AppData\Local\SeleniumBasic` with the downloaded version.
+{% step %}
+### Add the Chrome Path to WhatsAppBlaster
 
-</details>
+1.  Find the path to `chrome.exe` inside the `chrome-win64` folder.\
+    Example path:
 
-<details>
+    ```makefile
+    C:\Users\<YourUsername>\AppData\Local\SeleniumBasic\chrome-win64\chrome.exe
+    ```
+2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
-<summary><strong>Step 5:</strong> Change WhatsApp Language to EN</summary>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Change WhatsApp Language to EN
 
 Set your WhatsApp language to English by following the instructions [here](https://faq.whatsapp.com/779773243128935/?cms_platform=android).
+{% endstep %}
+{% endstepper %}
+
+***
+
+### Getting Started Troubleshooting
+
+<details>
+
+<summary>Error 7: "No Such Element Found" in the Status Column</summary>
+
+If you see this error in the **Status** column after sending messages, it usually means your WhatsApp interface is not set to **English**.
+
+**How to Fix It**:
+
+* Open WhatsApp on your phone.
+* Follow [these instructions](https://faq.whatsapp.com/779773243128935/?cms_platform=android) to change the app language to **English**.
+
+Once your WhatsApp is in English, retry sending your messages.
 
 </details>
+
+<details>
+
+<summary>Error: Buttons Not Working ("Cannot Run the Macro")</summary>
+
+If you get an error like the one below when clicking any buttons:
+
+<img src="../.gitbook/assets/image (27).png" alt="" data-size="original">
+
+This happens when macros are not enabled in Excel. To fix this, [follow the instructions here](../troubleshooting/unable-to-click-on-buttons-in-the-whatsapp-blaster.md).
+
+</details>
+
+
+
+
+

@@ -5,7 +5,6 @@
 ## 💡 Fundamentals
 
 * [Getting Started](fundamentals/getting-started.md)
-* [Getting Started](fundamentals/getting-started-1.md)
 * [Release Notes](fundamentals/release-notes.md)
 * [Support](fundamentals/support.md)
 
