@@ -5,6 +5,7 @@
 ## 💡 Fundamentals
 
 * [Getting Started](fundamentals/getting-started.md)
+* [Guidelines for using WhatsApp Blaster](fundamentals/guidelines-for-using-whatsapp-blaster.md)
 * [Release Notes](fundamentals/release-notes.md)
 * [Support](fundamentals/support.md)
 
@@ -15,7 +16,6 @@
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
 * [How to use the phone number replicator](guides/how-to-use-the-phone-number-replicator.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
-* [How to minimize the risk of getting banned on WhatsApp](guides/how-to-minimize-the-risk-of-getting-banned-on-whatsapp.md)
 * [How to send media files and documents](guides/how-to-send-media-files-and-documents.md)
 * [How to send a message to a group chat](guides/how-to-send-a-message-to-a-group.md)
 * [How to set up a custom delay](guides/custom-delay.md)

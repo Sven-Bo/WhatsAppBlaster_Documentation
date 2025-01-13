@@ -52,7 +52,7 @@ description: >-
 
 * **Emojis**: To insert emojis on Windows, press `Win + .` (Windows key + period) to bring up the emoji picker.
 * **WhatsApp Ban Risks**: Follow best practices to minimize the risk of getting banned.\
-  👉 **Learn more**: [Avoiding WhatsApp Bans](how-to-minimize-the-risk-of-getting-banned-on-whatsapp.md)
+  👉 **Learn more**: [Avoiding WhatsApp Bans](broken-reference)
 * **File Paths**: Ensure file paths are correct and accessible.
 * **Phone Numbers**: Double-check that phone numbers are formatted correctly (country code + number).
 
