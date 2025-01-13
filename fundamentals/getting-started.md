@@ -2,8 +2,8 @@
 
 ### Follow these simple steps to get started with WhatsApp Blaster:
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/f5c95a17-6632-4d36-a6c2-776a6bb8589f" %}
-WhatsApp Blaster - Getting Started Video
+{% embed url="https://iframe.mediadelivery.net/play/289332/8a609935-f0ab-47aa-912d-9bc1327f79f9" %}
+WhatsAppBlaster - Getting Started Video
 {% endembed %}
 
 ### Detailed Steps: Getting Started with the WhatsAppBlaster
