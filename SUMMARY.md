@@ -8,6 +8,7 @@
 * [Guidelines for using WhatsApp Blaster](fundamentals/guidelines-for-using-whatsapp-blaster.md)
 * [Release Notes](fundamentals/release-notes.md)
 * [Support](fundamentals/support.md)
+* [Disclaimer](fundamentals/disclaimer.md)
 
 ## 📚 Guides
 
