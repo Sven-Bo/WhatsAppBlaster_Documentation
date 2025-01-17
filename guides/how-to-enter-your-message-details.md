@@ -8,7 +8,7 @@ description: >-
 
 ### Example Input:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
 ### Table Columns:
 
