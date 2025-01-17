@@ -41,4 +41,4 @@ Common file types like `.pdf, .docx, .xlsx, .txt`.
 
 Below is a screenshot showing how to correctly input the file path(s), select the file type, and add an optional caption:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>

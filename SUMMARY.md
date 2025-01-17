@@ -12,6 +12,7 @@
 
 ## 📚 Guides
 
+* [3 messaging tips to get the most out of WhatsApp Blaster](guides/3-messaging-tips-to-get-the-most-out-of-whatsapp-blaster.md)
 * [How to enter your message details](guides/how-to-enter-your-message-details.md)
 * [How to set up Chrome for WhatsAppBlaster](guides/how-to-set-up-chrome-for-whatsappblaster.md)
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
