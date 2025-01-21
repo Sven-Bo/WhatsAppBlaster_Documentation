@@ -29,7 +29,7 @@ You might wonder: _“Can my WhatsApp account get banned if I use WhatsApp Blast
    New WhatsApp numbers are more likely to get flagged. Instead, use a number that’s been active for some time.
 2. **Be Careful with Unsaved Contacts**\
    Sending messages to unsaved numbers is a feature in the PRO version, but use it thoughtfully. Stick to people likely to recognize your number or message to avoid being flagged.
-3. **Keep Your Messages Relevant**\
+3. **Don’t Send Generic or Irrelevant Messages**\
    If too many people report your messages as spam, WhatsApp might block your account. Avoid generic messages. Instead, focus on personalized and valuable content that people actually want to receive.
 
 ***
