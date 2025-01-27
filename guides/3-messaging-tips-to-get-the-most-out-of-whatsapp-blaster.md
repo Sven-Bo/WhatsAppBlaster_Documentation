@@ -37,10 +37,10 @@ Your messages shouldn’t just be text—they should _stand out_. WhatsApp Blast
 **Example Input:**\
 `✨ _Your order is confirmed!_ | 📦 *Tracking Number:* 12345 | Thank you for choosing us!`
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Result:**\
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ***
 
@@ -59,4 +59,4 @@ Here’s how you can do it:
 
 **Result:**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="261"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="261"><figcaption></figcaption></figure></div>

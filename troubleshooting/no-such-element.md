@@ -1,27 +1,39 @@
 # Resolving Error: 7 No Such Element Error When Sending Images or Documents
 
-If you receive an "Error: 7 No Such Element Error" while attempting to send an image or document using the WhatsApp Blaster, follow these steps to address the issue:
+This error is most likely due to your Chrome browser not being set to English. The WhatsApp Blaster relies on English menu names (e.g., "Photos & videos") to function correctly. Follow these steps to resolve the issue:
 
-#### Step 1: Update to the Latest Template Version
+**Step 1: Ensure You Are Using the Latest WhatsApp Blaster PRO Version**
 
-First, ensure that you are using the latest version of the WhatsApp Blaster template. You can update to the latest version by clicking the **"Check for Updates"** button in the Excel template. This often resolves many issues by incorporating the latest fixes and improvements.
+Before making any changes, ensure you are using the latest version of WhatsApp Blaster PRO. Updates often fix compatibility issues and bugs.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+* Download the latest PRO version here: [WhatsApp Blaster PRO Download](https://pythonandvba.com/whatsapp-pro-download).
 
-#### Step 2: Ensure WhatsApp Language is Set to English
+***
 
-If updating the template doesn't resolve the issue, make sure that your (Web)WhatsApp language is set to English. This can be crucial for the VBA script to function correctly. Follow these steps to change the language:
+**Step 2: Use the Chrome Test Browser**
 
-1. **Change Your Phone's Language**:
-   * Go to your phone's **Settings**.
-   * Tap **Language**.
-   * Select **English** (or your preferred language, but English is recommended for compatibility).
-2.  **Change Your Language in WhatsApp (Android Only)**:
+Instead of changing your default Chrome browser language to English, it is **strongly recommended** to use the **Chrome Test Browser**. This ensures compatibility without affecting your main browser setup.
 
-    * If you're using an Android device, you might be able to change WhatsApp's language directly within the app:
-    * Open WhatsApp and tap **More options** > **Settings** > **App Language**.
-    * Select **English** from the list.
+1. Open the WhatsApp Blaster.
+2. Navigate to the "General" section (refer to the screenshot below):\
+   **Placeholder for image: General section screenshot**
+   * **Set "Use Default Chrome Installation" to NO.**
+   * Enter the path to your Chrome Test Browser in the "Custom Chrome Path" field.
 
-    **Note**: If you don't see this option, it might not be supported in your country or region.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-For more detailed instructions on changing the WhatsApp language, you can refer to [this guide](https://faq.whatsapp.com/779773243128935/?cms_platform=android\&locale=en_US).
+If you have not yet set up the Chrome Test Browser, follow this guide:\
+[How to Set Up Chrome for WhatsApp Blaster](https://docs.pythonandvba.com/whatsappblaster/guides/how-to-set-up-chrome-for-whatsappblaster).
+
+***
+
+**Step 3: Delete ChromeUserData Folder**
+
+If the issue persists after the steps above, delete the `ChromeUserData` folder to reset the browser session.
+
+1. Navigate to the directory where WhatsApp Blaster is saved.
+2. Look for a folder named `ChromeUserData`.
+3. Delete the folder.
+4. Run the WhatsAppBlaster again.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
