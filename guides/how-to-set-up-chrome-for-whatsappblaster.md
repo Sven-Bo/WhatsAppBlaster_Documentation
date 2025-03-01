@@ -70,7 +70,7 @@ Step-by-Step Guide
     ```
 2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

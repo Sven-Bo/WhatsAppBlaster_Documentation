@@ -11,7 +11,7 @@ There’s no official limit set by WhatsApp, but sending too many messages too q
 
     Here’s what the delay settings look like in WhatsApp Blaster:
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Warm Up Your Number**: If your number is new to bulk messaging, don’t send too many messages right away. Start slow:
    * **Day 1**: Send up to 50 messages.
    * Gradually increase by 40-50 messages per day until you reach around 200 messages per day.\

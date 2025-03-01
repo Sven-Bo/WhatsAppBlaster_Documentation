@@ -22,6 +22,7 @@
 * [How to send a message to a group chat](guides/how-to-send-a-message-to-a-group.md)
 * [How to set up a custom delay](guides/custom-delay.md)
 * [How to send a multiline message](guides/how-to-send-a-multiline-message.md)
+* [How to send media or documents with a caption](guides/how-to-send-media-or-documents-with-a-caption.md)
 * [How to configure the backend settings sheet](guides/how-to-configure-the-backend-settings-sheet.md)
 
 ## 🛠️ Troubleshooting

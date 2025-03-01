@@ -70,7 +70,7 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
     ```
 2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
