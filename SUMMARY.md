@@ -34,6 +34,7 @@
 * [Resolving Compile Error in Hidden Module: mWhatsAppBOT](troubleshooting/resolving-compile-error-in-hidden-module-mwhatsappbot.md)
 * [Resolving Error 429: Class Not Registered](troubleshooting/resolving-error-429-class-not-registered.md)
 * [Resolving Chrome Binary Not Found Error](troubleshooting/resolving-chrome-binary-not-found-error.md)
+* [Resolving 1000 SeleniumError](troubleshooting/resolving-1000-seleniumerror.md)
 
 ## ⁉️ FAQ
 
