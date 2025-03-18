@@ -23,9 +23,11 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 
 1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
    (_The tool that connects Excel to your browser_)
-2. [Download ChromeDriver (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)\
+2. [Download ChromeDriver (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)
+   (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
    (_Helps control Chrome for sending your messages_)
-3. [Download Chrome Testing Browser (zip)](https://pythonandvba.com/go/whatsappblaster-chrome-test-browser-download-link)\
+3. [Download Chrome Testing Browser (zip)](https://pythonandvba.com/go/whatsappblaster-chrome-test-browser-download-link)
+   (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
    (_A dedicated Chrome browser for automation_)  
 {% endstep %}
 
