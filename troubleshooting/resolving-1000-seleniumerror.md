@@ -4,10 +4,6 @@ If you encounter the error **1000: SeleniumError - disconnected: Unable to recei
 
 <div align="left"><figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure></div>
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/f89ee1c6-8ddc-4ca8-bdaf-7171a799ab49" %}
-Resolving 1000 Selenium Error - Video Guide
-{% endembed %}
-
 ### Step 1: Update Chrome Test Browser and ChromeDriver
 
 1. **Download the latest versions:**
@@ -43,3 +39,9 @@ Resolving 1000 Selenium Error - Video Guide
     ```
 
     _(This depends on how you extracted the folder.)_
+
+### Video Guide
+
+{% embed url="https://iframe.mediadelivery.net/play/289332/f89ee1c6-8ddc-4ca8-bdaf-7171a799ab49" %}
+Resolving 1000 Selenium Error - Video Guide
+{% endembed %}
