@@ -26,8 +26,7 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 2. [Download ChromeDriver (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)\
    (_Helps control Chrome for sending your messages_)
 3. [Download Chrome Testing Browser (zip)](https://pythonandvba.com/go/whatsappblaster-chrome-test-browser-download-link)\
-   (_A dedicated Chrome browser for automation_)
-   version: 134.0.6998.88
+   (_A dedicated Chrome browser for automation_)  
 {% endstep %}
 
 {% step %}
