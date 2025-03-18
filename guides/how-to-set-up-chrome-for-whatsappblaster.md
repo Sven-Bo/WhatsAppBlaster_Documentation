@@ -30,9 +30,9 @@ Step-by-Step Guide
 ### Download the files
 
 1. **Download ChromeDriver**:\
-   [Download ChromeDriver (zip)](https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win64/chromedriver-win64.zip)
+   [Download ChromeDriver (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)
 2. **Download Chrome Testing Browser**:\
-   [Download Chrome Testing Browser (zip)](https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win64/chrome-win64.zip)
+   [Download Chrome Testing Browser (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)
 {% endstep %}
 
 {% step %}
