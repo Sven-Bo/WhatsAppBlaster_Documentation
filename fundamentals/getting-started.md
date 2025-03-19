@@ -8,58 +8,55 @@ WhatsAppBlaster - Getting Started Video
 
 ### Detailed Steps: Getting Started with the WhatsAppBlaster
 
-{% stepper %}
-{% step %}
-#### Unblock the WhatsAppBlaster and enable macros
+**Unblock the WhatsAppBlaster and enable macros**
 
 * After downloading the Excel file, right-click it and select _Properties_. In the _General_ tab, check the _Unblock_ box if it’s available, then click _Apply_ and _OK_.
 * Open the Excel file, and when prompted, click _Enable Content_ to allow macros to run properly.
-{% endstep %}
 
-{% step %}
-#### Download the files
+**Download the files**
 
 You'll need three files to set up WhatsApp Blaster. Click the links below to download them:
 
 1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
    (_The tool that connects Excel to your browser_)
-
 2. **Download ChromeDriver & Chrome Testing Browser:**
 
-   <details>
-   <summary><b>For 64-bit Windows (recommended)</b></summary>
-   
-   * [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
-   * [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
-   
-   _Version: 134.0.6998.88, Last updated: March 18, 2025_
-   </details>
+<details>
 
-   <details>
-   <summary><b>For 32-bit Windows</b></summary>
-   
-   * [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip)
-   * [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chrome-win32.zip)
-   
-   _Version: 134.0.6998.88, Last updated: March 18, 2025_
-   </details>
-{% endstep %}
+<summary>For 64-bit Windows (recommended)</summary>
+
+* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
+* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
+
+_Version: 134.0.6998.88, Last updated: March 18, 2025_
+
+</details>
+
+<details>
+
+<summary>For 32-bit Windows</summary>
+
+* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip)
+* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chrome-win32.zip)
+
+_Version: 134.0.6998.88, Last updated: March 18, 2025_
+
+</details>
+
+
+
 #### Extract the files
 
 1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
    * Inside the extracted folder, you’ll find `chromedriver.exe`.
 2. Extract the **Chrome Testing Browser zip file** (`chrome-win64.zip`):
    * You’ll get a folder called `chrome-win64`.
-{% endstep %}
 
-{% step %}
-#### Install VBA Selenium
+**Install VBA Selenium**
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/374aefc5-e980-4638-b770-a7b4f6c63723" %}
-{% endstep %}
 
-{% step %}
-#### Move the Files to Selenium Basic Folder
+**Move the Files to Selenium Basic Folder**
 
 1.  Open the default Selenium Basic folder:
 
@@ -71,10 +68,8 @@ You'll need three files to set up WhatsApp Blaster. Click the links below to dow
    Your folder should now look like this:
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
 
-{% step %}
-#### Add the Chrome Path to WhatsAppBlaster
+**Add the Chrome Path to WhatsAppBlaster**
 
 1.  Find the path to `chrome.exe` inside the `chrome-win64` folder.\
     Example path:
@@ -85,14 +80,10 @@ You'll need three files to set up WhatsApp Blaster. Click the links below to dow
 2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
 
-{% step %}
-#### Change WhatsApp Language to EN
+**Change WhatsApp Language to EN**
 
 Set your WhatsApp language to English by following the instructions [here](https://faq.whatsapp.com/779773243128935/?cms_platform=android).
-{% endstep %}
-{% endstepper %}
 
 ***
 
