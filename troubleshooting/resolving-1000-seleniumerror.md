@@ -6,10 +6,25 @@ If you encounter the error **1000: SeleniumError - disconnected: Unable to recei
 
 ### Step 1: Update Chrome Test Browser and ChromeDriver
 
-1. **Download the latest versions:**
-   * [Chrome Test Browser](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
-   * [ChromeDriver](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
-2. **Extract the downloaded ZIP files.**
+* **Download the latest versions ⤵️:**
+
+{% tabs %}
+{% tab title="For 64-bit Windows (recommended)" %}
+- [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
+- [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
+
+_Version: 134.0.6998.88, Last updated: March 18, 2025_
+{% endtab %}
+
+{% tab title="For 32-bit Windows" %}
+* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip)
+* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chrome-win32.zip)
+
+_Version: 134.0.6998.88, Last updated: March 18, 2025_
+{% endtab %}
+{% endtabs %}
+
+* **Extract the downloaded ZIP files.**
 
 ### Step 2: Replace Outdated Files in SeleniumBasic Folder
 
