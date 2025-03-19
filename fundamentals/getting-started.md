@@ -19,7 +19,7 @@ You'll need three files to set up WhatsApp Blaster. Click the links below to dow
 
 1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
    (_The tool that connects Excel to your browser_)
-2. **Download ChromeDriver & Chrome Testing Browser:**
+2. Download **ChromeDriver** & **Chrome Testing Browse**r ⤵️:
 
 <details>
 
