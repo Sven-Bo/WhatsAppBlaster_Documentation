@@ -19,19 +19,31 @@ WhatsAppBlaster - Getting Started Video
 {% step %}
 #### Download the files
 
-You’ll need three files to set up WhatsApp Blaster. Click the links below to download them:
+You'll need three files to set up WhatsApp Blaster. Click the links below to download them:
 
 1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
    (_The tool that connects Excel to your browser_)
-2. [Download ChromeDriver (zip)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)\
-   (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
-   (_Helps control Chrome for sending your messages_)
-3. [Download Chrome Testing Browser (zip)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)\
-   (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
-   (_A dedicated Chrome browser for automation_)
-{% endstep %}
 
-{% step %}
+2. **Download ChromeDriver & Chrome Testing Browser:**
+
+   <details>
+   <summary><b>For 64-bit Windows (recommended)</b></summary>
+   
+   * [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
+   * [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
+   
+   _Version: 134.0.6998.88, Last updated: March 18, 2025_
+   </details>
+
+   <details>
+   <summary><b>For 32-bit Windows</b></summary>
+   
+   * [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip)
+   * [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chrome-win32.zip)
+   
+   _Version: 134.0.6998.88, Last updated: March 18, 2025_
+   </details>
+{% endstep %}
 #### Extract the files
 
 1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
