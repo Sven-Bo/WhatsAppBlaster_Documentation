@@ -7,8 +7,8 @@ If you encounter the error **1000: SeleniumError - disconnected: Unable to recei
 ### Step 1: Update Chrome Test Browser and ChromeDriver
 
 1. **Download the latest versions:**
-   * [Chrome Test Browser](https://pythonandvba.com/go/whatsappblaster-chrome-test-browser-download-link)
-   * [ChromeDriver](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)
+   * [Chrome Test Browser](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)
+   * [ChromeDriver](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)
 2. **Extract the downloaded ZIP files.**
 
 ### Step 2: Replace Outdated Files in SeleniumBasic Folder

@@ -10,29 +10,29 @@ WhatsAppBlaster - Getting Started Video
 
 {% stepper %}
 {% step %}
-### Unblock the WhatsAppBlaster and enable macros
+#### Unblock the WhatsAppBlaster and enable macros
 
 * After downloading the Excel file, right-click it and select _Properties_. In the _General_ tab, check the _Unblock_ box if it’s available, then click _Apply_ and _OK_.
 * Open the Excel file, and when prompted, click _Enable Content_ to allow macros to run properly.
 {% endstep %}
 
 {% step %}
-### Download the files
+#### Download the files
 
 You’ll need three files to set up WhatsApp Blaster. Click the links below to download them:
 
 1. [Download VBA Selenium (exe)](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)\
    (_The tool that connects Excel to your browser_)
-2. [Download ChromeDriver (zip)](https://pythonandvba.com/go/whatsappblaster-chromedriver-download-link)
+2. [Download ChromeDriver (zip)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chromedriver-win64.zip)\
    (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
    (_Helps control Chrome for sending your messages_)
-3. [Download Chrome Testing Browser (zip)](https://pythonandvba.com/go/whatsappblaster-chrome-test-browser-download-link)
+3. [Download Chrome Testing Browser (zip)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win64/chrome-win64.zip)\
    (_Version: 134.0.6998.88, Last updated: March 18, 2025_)\
-   (_A dedicated Chrome browser for automation_)  
+   (_A dedicated Chrome browser for automation_)
 {% endstep %}
 
 {% step %}
-### Extract the files
+#### Extract the files
 
 1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
    * Inside the extracted folder, you’ll find `chromedriver.exe`.
@@ -41,13 +41,13 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 {% endstep %}
 
 {% step %}
-### Install VBA Selenium
+#### Install VBA Selenium
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/374aefc5-e980-4638-b770-a7b4f6c63723" %}
 {% endstep %}
 
 {% step %}
-### Move the Files to Selenium Basic Folder
+#### Move the Files to Selenium Basic Folder
 
 1.  Open the default Selenium Basic folder:
 
@@ -62,7 +62,7 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 {% endstep %}
 
 {% step %}
-### Add the Chrome Path to WhatsAppBlaster
+#### Add the Chrome Path to WhatsAppBlaster
 
 1.  Find the path to `chrome.exe` inside the `chrome-win64` folder.\
     Example path:
@@ -76,7 +76,7 @@ You’ll need three files to set up WhatsApp Blaster. Click the links below to d
 {% endstep %}
 
 {% step %}
-### Change WhatsApp Language to EN
+#### Change WhatsApp Language to EN
 
 Set your WhatsApp language to English by following the instructions [here](https://faq.whatsapp.com/779773243128935/?cms_platform=android).
 {% endstep %}
@@ -112,8 +112,3 @@ If you get an error like the one below when clicking any buttons:
 This happens when macros are not enabled in Excel. To fix this, [follow the instructions here](../troubleshooting/unable-to-click-on-buttons-in-the-whatsapp-blaster.md).
 
 </details>
-
-
-
-
-
