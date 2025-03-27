@@ -34,14 +34,14 @@ Step-by-Step Guide
 * [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win64/chromedriver-win64.zip)
 * [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win64/chrome-win64.zip)
 
-_Version: 134.0.6998.165, Last updated: March 26, 2025_
+_Version: 134.0.6998.165, Last updated: March 27, 2025_
 {% endtab %}
 
 {% tab title="For 32-bit Windows" %}
 * [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip)
 * [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chrome-win32.zip)
 
-_Version: 134.0.6998.165, Last updated: March 26, 2025_
+_Version: 134.0.6998.165, Last updated: March 27, 2025_
 {% endtab %}
 {% endtabs %}
 {% endstep %}
