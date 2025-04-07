@@ -4,3 +4,9 @@ Easily prepare your phone numbers for seamless WhatsApp Blasting with this strai
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/638bc79c-81fb-436d-93ee-9ed08bbccb7c" %}
 
+
+
+
+
+{% embed url="https://iframe.mediadelivery.net/play/289332/638bc79c-81fb-436d-93ee-9ed08bbccb7c" %}
+
