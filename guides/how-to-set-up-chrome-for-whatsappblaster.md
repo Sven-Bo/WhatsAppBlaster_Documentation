@@ -21,13 +21,11 @@ Follow the steps below to set up your dedicated Chrome browser and ChromeDriver.
 Step-by-Step Guide
 {% endembed %}
 
-
-
 ### Detailed Steps: Setting Up Chrome for WhatsAppBlaster
 
 {% stepper %}
 {% step %}
-### Download **ChromeDriver** & **Chrome Testing Browse**r&#x20;
+#### Download **ChromeDriver** & **Chrome Testing Browse**r
 
 {% tabs %}
 {% tab title="For 64-bit Windows (recommended)" %}
@@ -47,7 +45,7 @@ _Version: 135.0.7049.42, Last updated: April 06, 2025_
 {% endstep %}
 
 {% step %}
-### Extract the files
+#### Extract the files
 
 1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
    * Inside the extracted folder, you’ll find `chromedriver.exe`.
@@ -56,7 +54,7 @@ _Version: 135.0.7049.42, Last updated: April 06, 2025_
 {% endstep %}
 
 {% step %}
-### Move the Files to Selnium Basic Folder
+#### Move the Files to Selnium Basic Folder
 
 1.  Open the default Selenium Basic folder:
 
@@ -71,7 +69,7 @@ _Version: 135.0.7049.42, Last updated: April 06, 2025_
 {% endstep %}
 
 {% step %}
-### Add the Chrome Path to WhatsAppBlaster
+#### Add the Chrome Path to WhatsAppBlaster
 
 1.  Find the path to `chrome.exe` inside the `chrome-win64` folder.\
     Example path:
@@ -84,4 +82,3 @@ _Version: 135.0.7049.42, Last updated: April 06, 2025_
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

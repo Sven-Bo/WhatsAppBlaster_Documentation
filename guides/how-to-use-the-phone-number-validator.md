@@ -1,8 +1,8 @@
-# How to use the phone number validato
+# How to use the phone number validator
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/d6d7b53e-de4e-4bbe-bf7a-064d2c44573f" %}
-Watch the tutorial video
-{% endembed %}
+
+
 
 ## Overview <a href="#overview" id="overview"></a>
 

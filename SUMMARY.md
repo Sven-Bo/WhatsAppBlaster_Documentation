@@ -16,7 +16,7 @@
 * [How to enter your message details](guides/how-to-enter-your-message-details.md)
 * [How to set up Chrome for WhatsAppBlaster](guides/how-to-set-up-chrome-for-whatsappblaster.md)
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
-* [How to use the phone number validato](guides/how-to-use-the-phone-number-validato.md)
+* [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
 * [How to use the phone number replicator](guides/how-to-use-the-phone-number-replicator.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
 * [How to send media files and documents](guides/how-to-send-media-files-and-documents.md)
