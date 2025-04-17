@@ -1,10 +1,10 @@
 # How to use the phone number validator
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/4ec70f4f-8ad1-4be0-9778-889da6d77793" %}
-Watch the tutorial
+{% embed url="https://iframe.mediadelivery.net/play/289332/fd34a147-2ef6-4574-b77f-ac7884819542" %}
+Phonenumber Validator Tutorial
 {% endembed %}
 
-## Overview <a href="#overview" id="overview"></a>
+### Overview <a href="#overview" id="overview"></a>
 
 The Phone Number Validation & Formatting tool helps you prepare your contact lists for SMS messaging by ensuring all phone numbers are properly formatted and valid. This tool is essential for maximizing your SMS delivery rates and avoiding wasted messages.
 
