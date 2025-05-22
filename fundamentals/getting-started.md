@@ -23,17 +23,17 @@ You'll need three files to set up WhatsApp Blaster. Click the links below to dow
 
 {% tabs %}
 {% tab title="For 64-bit Windows (recommended)" %}
-* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win64/chromedriver-win64.zip)
-* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win64/chrome-win64.zip)
+* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win64/chromedriver-win64.zip)
+* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win64/chrome-win64.zip)
 
-_Version: 136.0.7103.94, Last updated: May 21, 2025_
+_Version: 136.0.7103.113, Last updated: May 22, 2025_
 {% endtab %}
 
 {% tab title="For 32-bit Windows" %}
-* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win32/chromedriver-win32.zip)
-* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.94/win32/chrome-win32.zip)
+* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip)
+* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chrome-win32.zip)
 
-_Version: 136.0.7103.94, Last updated: May 21, 2025_
+_Version: 136.0.7103.113, Last updated: May 22, 2025_
 {% endtab %}
 {% endtabs %}
 
