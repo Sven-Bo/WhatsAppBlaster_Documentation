@@ -37,6 +37,10 @@
 * [Resolving Chrome Binary Not Found Error](troubleshooting/resolving-chrome-binary-not-found-error.md)
 * [Resolving 1000 SeleniumError](troubleshooting/resolving-1000-seleniumerror.md)
 
+***
+
+* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+
 ## ⁉️ FAQ
 
 * [How can I interrupt the sending process?](faq/how-can-i-interrupt-the-sending-process.md)

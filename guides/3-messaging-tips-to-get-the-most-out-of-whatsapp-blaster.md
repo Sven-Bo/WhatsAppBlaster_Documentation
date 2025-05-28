@@ -40,7 +40,7 @@ Your messages shouldn’t just be text—they should _stand out_. WhatsApp Blast
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Result:**\
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ***
 

@@ -25,7 +25,7 @@ Step-by-Step Guide
 
 {% stepper %}
 {% step %}
-#### Download **ChromeDriver** & **Chrome Testing Browse**r
+**Download ChromeDriver & Chrome Testing Browser**
 
 {% tabs %}
 {% tab title="For 64-bit Windows (recommended)" %}
@@ -45,7 +45,7 @@ _Version: 137.0.7151.55, Last updated: May 28, 2025_
 {% endstep %}
 
 {% step %}
-#### Extract the files
+**Extract the files**
 
 1. Extract the **ChromeDriver zip file** (`chromedriver-win64.zip`):
    * Inside the extracted folder, you’ll find `chromedriver.exe`.
@@ -54,7 +54,7 @@ _Version: 137.0.7151.55, Last updated: May 28, 2025_
 {% endstep %}
 
 {% step %}
-#### Move the Files to Selnium Basic Folder
+**Move the Files to Selnium Basic Folder**
 
 1.  Open the default Selenium Basic folder:
 
@@ -69,7 +69,7 @@ _Version: 137.0.7151.55, Last updated: May 28, 2025_
 {% endstep %}
 
 {% step %}
-#### Add the Chrome Path to WhatsAppBlaster
+**Add the Chrome Path to WhatsAppBlaster**
 
 1.  Find the path to `chrome.exe` inside the `chrome-win64` folder.\
     Example path:
@@ -79,6 +79,6 @@ _Version: 137.0.7151.55, Last updated: May 28, 2025_
     ```
 2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
