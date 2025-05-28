@@ -7,7 +7,7 @@ If you'd like to cancel your subscription, here's how to do it in a few quick st
 Go to:\
 [https://pythonandvba.com/account-login/](https://pythonandvba.com/account-login/)
 
-Enter your **product name** and **license key**.\
+Enter the **product name** and your **license key**.\
 You’ll get a secure login link by email.
 
 #### Step 2 – Go to the Subscription tab
