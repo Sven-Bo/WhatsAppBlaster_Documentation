@@ -56,3 +56,4 @@
 * [Can I try the PRO version before purchasing?](faq/can-i-try-the-pro-version-before-purchasing.md)
 * [Why upgrade to PRO?](faq/why-upgrade-to-pro.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
+* [How to cancel your subscription](faq/how-to-cancel-your-subscription.md)
