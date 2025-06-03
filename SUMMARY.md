@@ -19,6 +19,7 @@
 * [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
 * [How to use the phone number replicator](guides/how-to-use-the-phone-number-replicator.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
+* [How to use spintext](guides/how-to-use-spintext.md)
 * [How to send media files and documents](guides/how-to-send-media-files-and-documents.md)
 * [How to send a message to a group chat](guides/how-to-send-a-message-to-a-group.md)
 * [How to set up a custom delay](guides/custom-delay.md)
