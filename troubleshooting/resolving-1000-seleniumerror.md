@@ -10,17 +10,17 @@ If you encounter the error **1000: SeleniumError - disconnected: Unable to recei
 
 {% tabs %}
 {% tab title="For 64-bit Windows (recommended)" %}
-* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win64/chromedriver-win64.zip)
-* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win64/chrome-win64.zip)
+* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.68/win64/chromedriver-win64.zip)
+* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.68/win64/chrome-win64.zip)
 
-_Version: 137.0.7151.55, Last updated: June 02, 2025_
+_Version: 137.0.7151.68, Last updated: June 03, 2025_
 {% endtab %}
 
 {% tab title="For 32-bit Windows" %}
-* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chromedriver-win32.zip)
-* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win32/chrome-win32.zip)
+* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.68/win32/chromedriver-win32.zip)
+* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.68/win32/chrome-win32.zip)
 
-_Version: 137.0.7151.55, Last updated: June 02, 2025_
+_Version: 137.0.7151.68, Last updated: June 03, 2025_
 {% endtab %}
 {% endtabs %}
 
