@@ -66,7 +66,7 @@ This way, your message gets personalized _and_ varied—without extra work.
 
 <summary><strong>What happens if I only put one item inside the brackets?</strong></summary>
 
-
+It’ll just use that item—no randomization happens.
 
 </details>
 
@@ -74,7 +74,7 @@ This way, your message gets personalized _and_ varied—without extra work.
 
 <summary><strong>Can I put spintext inside another spintext block?</strong></summary>
 
-
+Nope. Nested spintext like `[[option1|[[nested1|nested2]]]]` isn’t supported. It’ll be ignored.
 
 </details>
 
@@ -82,7 +82,10 @@ This way, your message gets personalized _and_ varied—without extra work.
 
 <summary><strong>Can I add emojis, punctuation, or full sentences?</strong></summary>
 
+Absolutely. You can spin whole phrases if you like:
+
 ```
+[[Thanks a lot!|Appreciate it.|Much obliged!]]
 ```
 
 </details>
@@ -91,7 +94,7 @@ This way, your message gets personalized _and_ varied—without extra work.
 
 <summary><strong>Will it choose a different result every time?</strong></summary>
 
-
+Yes—each message sent will process the spintext anew, picking random options independently.
 
 </details>
 
