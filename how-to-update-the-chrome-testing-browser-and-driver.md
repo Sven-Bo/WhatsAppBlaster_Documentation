@@ -6,18 +6,13 @@ description: >-
 
 # How to update the Chrome Testing Browser & Driver
 
+### Watch the tutorial below ⤵️
+
+{% embed url="https://iframe.mediadelivery.net/play/289332/a337169b-097a-4c94-a726-f1fa288038bb" %}
+Update ChromeTesting Browser - Tutorial
+{% endembed %}
+
 {% stepper %}
-{% step %}
-### Delete the old Chrome Testing Browser
-
-1. Go to this folder:\
-   `C:\Users\<YourUsername>\AppData\Local\SeleniumBasic`
-2. Delete the folder named **chrome-win64**\
-   &#xNAN;_(This folder contains the old version of the testing browser)_
-
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
 {% step %}
 ### Download the latest Chrome Testing Browser & ChromeDriver
 
@@ -40,6 +35,17 @@ _Version: 137.0.7151.68, Last updated: June 03, 2025_
 {% endtabs %}
 
 Extract both zip files.
+{% endstep %}
+
+{% step %}
+### Delete the old Chrome Testing Browser
+
+1. Go to this folder:\
+   `C:\Users\<YourUsername>\AppData\Local\SeleniumBasic`
+2. Delete the folder named **chrome-win64**\
+   &#xNAN;_(This folder contains the old version of the testing browser)_
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
