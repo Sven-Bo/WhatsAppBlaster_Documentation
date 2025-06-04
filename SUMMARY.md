@@ -27,6 +27,10 @@
 * [How to send media or documents with a caption](guides/how-to-send-media-or-documents-with-a-caption.md)
 * [How to configure the backend settings sheet](guides/how-to-configure-the-backend-settings-sheet.md)
 
+***
+
+* [How to update the Chrome Testing Browser & Driver](how-to-update-the-chrome-testing-browser-and-driver.md)
+
 ## 🛠️ Troubleshooting
 
 * [How to update ChromeDriver](troubleshooting/update-chromedriver.md)
