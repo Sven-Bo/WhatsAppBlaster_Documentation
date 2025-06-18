@@ -20,17 +20,17 @@ You need both files to update properly:
 
 {% tabs %}
 {% tab title="For 64-bit Windows (recommended)" %}
-* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win64/chromedriver-win64.zip)
-* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win64/chrome-win64.zip)
+* [Download ChromeDriver (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win64/chromedriver-win64.zip)
+* [Download Chrome Testing Browser (win64)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win64/chrome-win64.zip)
 
-_Version: 137.0.7151.70, Last updated: June 17, 2025_
+_Version: 137.0.7151.119, Last updated: June 18, 2025_
 {% endtab %}
 
 {% tab title="For 32-bit Windows" %}
-* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chromedriver-win32.zip)
-* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win32/chrome-win32.zip)
+* [Download ChromeDriver (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip)
+* [Download Chrome Testing Browser (win32)](https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chrome-win32.zip)
 
-_Version: 137.0.7151.70, Last updated: June 17, 2025_
+_Version: 137.0.7151.119, Last updated: June 18, 2025_
 {% endtab %}
 {% endtabs %}
 
