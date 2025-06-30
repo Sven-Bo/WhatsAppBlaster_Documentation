@@ -20,7 +20,7 @@ Instead of changing your default Chrome browser language to English, it is **str
    * **Set "Use Default Chrome Installation" to NO.**
    * Enter the path to your Chrome Test Browser in the "Custom Chrome Path" field.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have not yet set up the Chrome Test Browser, follow this guide:\
 [How to Set Up Chrome for WhatsApp Blaster](https://docs.pythonandvba.com/whatsappblaster/guides/how-to-set-up-chrome-for-whatsappblaster).
@@ -36,4 +36,4 @@ If the issue persists after the steps above, delete the `ChromeUserData` folder 
 3. Delete the folder.
 4. Run the WhatsAppBlaster again.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

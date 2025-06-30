@@ -14,7 +14,7 @@ Update ChromeTesting Browser - Tutorial
 
 {% stepper %}
 {% step %}
-### Download the latest Chrome Testing Browser & ChromeDriver
+#### Download the latest Chrome Testing Browser & ChromeDriver
 
 You need both files to update properly:
 
@@ -38,18 +38,18 @@ Extract both zip files.
 {% endstep %}
 
 {% step %}
-### Delete the old Chrome Testing Browser
+#### Delete the old Chrome Testing Browser
 
 1. Go to this folder:\
    `C:\Users\<YourUsername>\AppData\Local\SeleniumBasic`
 2. Delete the folder named **chrome-win64**\
-   &#xNAN;_(This folder contains the old version of the testing browser)_
+   \&#xNAN;_(This folder contains the old version of the testing browser)_
 
 <figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Move the files to the SeleniumBasic Folder
+#### Move the files to the SeleniumBasic Folder
 
 1. Copy the extracted `chrome-win64` folder into:\
    `C:\Users\<YourUsername>\AppData\Local\SeleniumBasic`
@@ -62,7 +62,7 @@ Your `SeleniumBasic` folder should now contain:
 {% endstep %}
 
 {% step %}
-### Delete the ChromeUserData Folder
+#### Delete the ChromeUserData Folder
 
 1. Go to the folder where your `WhatsApp_BOT_PRO.xlsm` file is located
 2. Delete the folder named `ChromeUserData`\

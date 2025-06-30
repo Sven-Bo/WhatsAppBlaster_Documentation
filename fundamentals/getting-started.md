@@ -71,7 +71,7 @@ _Version: 138.0.7204.49, Last updated: June 30, 2025_
     ```
 2. Open WhatsAppBlaster and paste this path into the input field for the Chrome binary path.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Change WhatsApp Language to EN**
 

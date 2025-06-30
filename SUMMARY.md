@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to the WhatsApp Blaster](README.md)
+* [Welcome to the WhatsApp Blaster](README.md)
 
-## 💡 Fundamentals
+## Fundamentals
 
 * [Getting Started](fundamentals/getting-started.md)
 * [Guidelines for using WhatsApp Blaster](fundamentals/guidelines-for-using-whatsapp-blaster.md)
@@ -10,7 +10,7 @@
 * [Support](fundamentals/support.md)
 * [Disclaimer](fundamentals/disclaimer.md)
 
-## 📚 Guides
+## Guides
 
 * [3 messaging tips to get the most out of WhatsApp Blaster](guides/3-messaging-tips-to-get-the-most-out-of-whatsapp-blaster.md)
 * [How to enter your message details](guides/how-to-enter-your-message-details.md)
@@ -31,7 +31,7 @@
 
 * [How to update the Chrome Testing Browser & Driver](how-to-update-the-chrome-testing-browser-and-driver.md)
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 * [How to update ChromeDriver](troubleshooting/update-chromedriver.md)
 * [Unable to click on buttons in the WhatsApp Blaster](troubleshooting/unable-to-click-on-buttons-in-the-whatsapp-blaster.md)
@@ -39,6 +39,7 @@
 * [Resolving Error: 7 No Such Element Error When Sending Images or Documents](troubleshooting/no-such-element.md)
 * [Resolving Compile Error in Hidden Module: mWhatsAppBOT](troubleshooting/resolving-compile-error-in-hidden-module-mwhatsappbot.md)
 * [Resolving Error 429: Class Not Registered](troubleshooting/resolving-error-429-class-not-registered.md)
+* [Resolving Error 33: SessionNotCreatedError](troubleshooting/resolving-error-33-sessionnotcreatederror.md)
 * [Resolving Chrome Binary Not Found Error](troubleshooting/resolving-chrome-binary-not-found-error.md)
 * [Resolving 1000 SeleniumError](troubleshooting/resolving-1000-seleniumerror.md)
 
@@ -46,7 +47,7 @@
 
 * [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
 
-## ⁉️ FAQ
+## FAQ
 
 * [How can I interrupt the sending process?](faq/how-can-i-interrupt-the-sending-process.md)
 * [Can I schedule messages with WhatsApp Blaster?](faq/can-i-schedule-messages-with-whatsapp-blaster.md)

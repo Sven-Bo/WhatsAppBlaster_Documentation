@@ -11,5 +11,5 @@ With WhatsApp Blaster, you can send media files (images, PDFs, etc.) along with 
 
 ### Example
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Send media or documents with a caption </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Send media or documents with a caption </p></figcaption></figure>
 
