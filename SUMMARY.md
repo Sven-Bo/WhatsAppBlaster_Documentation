@@ -30,6 +30,7 @@
 ***
 
 * [How to update the Chrome Testing Browser & Driver](how-to-update-the-chrome-testing-browser-and-driver.md)
+* [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
 
 ## Troubleshooting
 
