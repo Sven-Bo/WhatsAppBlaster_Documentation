@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Welcome to the WhatsApp Blaster
 
 [The WhatsApp Blaster](https://pythonandvba.com/whatsapp-bot) is an Excel template designed to simplify the process of sending bulk WhatsApp messages directly from Excel. It allows you to seamlessly send messages to both saved and unsaved contacts without requiring any complex setup or the need for a WhatsApp API.

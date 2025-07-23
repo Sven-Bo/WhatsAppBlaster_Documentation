@@ -43,10 +43,8 @@
 * [Resolving Error 33: SessionNotCreatedError](troubleshooting/resolving-error-33-sessionnotcreatederror.md)
 * [Resolving Chrome Binary Not Found Error](troubleshooting/resolving-chrome-binary-not-found-error.md)
 * [Resolving 1000 SeleniumError](troubleshooting/resolving-1000-seleniumerror.md)
-
-***
-
-* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+* [Resolving the “OLE Automation Error”](troubleshooting/resolving-the-ole-automation-error.md)
+* [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 
 ## FAQ
 
